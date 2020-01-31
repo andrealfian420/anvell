@@ -1,0 +1,33 @@
+.bgBody {
+	background-color: #30374b;
+}
+
+.bgLogin {
+	background: url(../img/eiffeltower.jpg);
+	width: 800px;
+	height: 600px;
+	background-position: inherit;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.bgRegister {
+	background: url(../img/eiffeltower2.jpg);
+	width: 800px;
+	height: 600px;
+	background-position: inherit;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.tombolLogin {
+	background-color: #30374b;
+	color: #fff;
+	letter-spacing: 2px;
+}
+
+.tombolRegister {
+	background-color: #30374b;
+	color: #fff;
+	letter-spacing: 2px;
+}
